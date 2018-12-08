@@ -15,6 +15,11 @@
     min-height: 550px;
   }
   
+  .logocontact {
+    text-align: center;
+    vertical-align:middle;
+
+  }
   .zc-ref {
     display: none;
   }
