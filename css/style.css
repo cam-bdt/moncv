@@ -1,0 +1,35 @@
+@charset "UTF-8";
+.header{
+    background-color: #F25652;
+    font-family: 'Playfair Display', serif;
+    color : #3E4E59;
+    height: 150px;
+    text-align: center;
+    top: 40%;
+}
+
+
+.navbar {
+    float: right;
+    background-color: lightblue;
+        
+
+}
+
+
+.nav-stacked {
+    width: 130px;
+    background-color: #D9BB93;
+}
+
+.container {
+    background-color: #F1F0E2;
+}
+
+.lienmenu {
+   
+}
+.row {
+    background-color: lightcoral;
+}
+
